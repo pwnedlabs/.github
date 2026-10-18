@@ -1,3 +1,5 @@
+<p align="center"><a href="https://pwnedlabs.io"><img src="https://pwnedlabs.io/hubfs/27219020/brand/pwnedlabs-banner.png" alt="Pwned Labs: Real labs. Real tradecraft." width="100%"></a></p>
+
 <h1 align="center">Pwned Labs</h1>
 <p align="center"><strong>Real labs. Real tradecraft.</strong></p>
 <p align="center">Hands-on labs across cloud, AI, Kubernetes, CI/CD and hybrid environments.</p>
